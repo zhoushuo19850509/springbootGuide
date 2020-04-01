@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/gs-centralized-configuration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gs-circuit-breaker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gs-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gs-routing-and-filtering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gs-service-registration-and-discovery" vcs="Git" />
+  </component>
+</project>

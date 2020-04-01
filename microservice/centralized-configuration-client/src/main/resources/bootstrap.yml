@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: haha
+  cloud:
+    config:
+      uri: http://localhost:8089
+      label: master
+      profile: dev
+      username: zhoushuo19850509@163.com
+      password: nbcb,111
